@@ -1,3 +1,15 @@
+# Real-Time STT PoC
+
+1. gpt4o-Transcribe api
+2. gemini2.x api
+    1. gemini 2.0 real-time 지원관련 ref
+        1. https://developers.googleblog.com/ko/gemini-2-0-level-up-your-apps-with-real-time-multimodal-interactions/
+        2. https://youtu.be/Mot-JEU26GQ?si=RP0rngVvtM8pU176
+3. GCP Cloud Speech-to-Text
+4. AWS transcribe
+5. Deepgram: nova3는 한글 지원안함
+6. whisper-realtime
+
 # whisper_streaming
 Whisper realtime streaming for long speech-to-text transcription and translation
 
